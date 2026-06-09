@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 DIOGO RAMOS LOPES
+# DIOGO RAMOS LOPES
 
 ### Backend Developer • Systems Analysis & Development Student
 
@@ -13,7 +13,7 @@ Building reliable systems, APIs, and solutions that work behind the scenes.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Backend developer in training and Systems Analysis & Development student.
 
@@ -21,11 +21,9 @@ I enjoy building the parts of software that users rarely see but depend on every
 
 Currently focused on improving my skills in software architecture, backend development, and modern web technologies while developing real-world projects.
 
-> "Good software is not just code that works — it's code that remains reliable, maintainable, and scalable."
-
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -56,20 +54,20 @@ Currently focused on improving my skills in software architecture, backend devel
 
 ---
 
-## 🎓 Education
+##  Education
 
-📚 **Systems Analysis & Development**
+ **Systems Analysis & Development**
 Federal Institute of São Paulo (IFSP)
 
-🎓 **IT Technician**
+ **IT Technician**
 ETEC de Cubatão
 
-📦 **Logistics Technician**
+ **Logistics Technician**
 Escola Técnica Sequencial
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -81,7 +79,7 @@ Escola Técnica Sequencial
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 * Backend Development with Java & Spring Boot
 * REST API Design
@@ -92,11 +90,11 @@ Escola Técnica Sequencial
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 **Email:** [diogoramoslopes6@gmail.com](mailto:diogoramoslopes6@gmail.com)
 
-💼 **LinkedIn:**
+ **LinkedIn:**
 https://br.linkedin.com/in/diogo-ramos-lopes-335808353
 
 ---
